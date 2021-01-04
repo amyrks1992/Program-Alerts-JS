@@ -1,2 +1,2 @@
 # Program-Alerts_JS
-Programa em Javascript que mostra o comportamento dos alerts básicos da linguagem, através de um questionário simples.
+Program in Javascript that shows the behaviour of the basic alerts from the language, through a simple questionnaire.
